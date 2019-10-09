@@ -2,6 +2,8 @@
 
 All eclipse workspace settings are saved as a plain text in the workspace directory. So if you want to create new workspace, this will help.
 
+## Linux version
+
 To use the script, save it somewhere, make it executable (`chmod +x new-workspace.sh`) and run it either in interactive mode
 
 `./new-workspace.sh -i`
