@@ -22,7 +22,7 @@ echo Sorry, did you forget to provide me the output workspace location?
 goto usage
 
 :usage
-echo cpew usage: cpew old_workspace new_workspace
+echo new-workspace.cmd usage: cpew old_workspace new_workspace
 goto end
 
 :okParams
