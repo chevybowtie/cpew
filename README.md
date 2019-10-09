@@ -13,3 +13,8 @@ where it will ask you the details, or with paths to your workspaces (the new wor
 `./new-workspace.sh old-workspace new-workspace`
 
 The script will create new workspace directory and copy the relevant settings from your old workspace.
+
+
+## If you disabled Eclipse from asking which workspace...
+
+In Window -> Preferences -> General-> Startup and Shutdown -> Workspaces, make sure that 'Prompt for Workspace on startup' is checked.
